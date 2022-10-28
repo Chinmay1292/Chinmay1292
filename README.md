@@ -1,7 +1,7 @@
 ### Hi there ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Chinmay1292.visitor-badge) 👋 
 
 <hr>
-### Github Stats:
+<div><b>Github Stats:</b></div>
 
 <p align="center">
   
