@@ -7,10 +7,10 @@
   
   <img width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=Chinmay1292&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=algolia" />
   
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Chinmay1292&theme=algolia&hide_border=true" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Chinmay1292&theme=algolia&hide_border=true&bg_color=1F222E" />
   
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chinmay1292&theme=algolia&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chinmay1292&theme=algolia&hide_border=true&bg_color=1F222E"/>
  </div>
