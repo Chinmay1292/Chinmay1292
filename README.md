@@ -12,5 +12,5 @@
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay1292&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay1292&layout=compact&hide_border=true&theme=algolia"/>
  </div>
