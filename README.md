@@ -7,7 +7,7 @@
   
   <img width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=Chinmay1292&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=algolia" />
   
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Chinmay1292&theme=algolia" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Chinmay1292&hide_border=truetheme=algolia" />
   
 </p>
 
