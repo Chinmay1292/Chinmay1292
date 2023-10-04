@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **There are 10 types of people in this world, those who know binary and those who don't.**
 
+[![An image of @Chinmay1292's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Chinmay1292)](https://holopin.io/@Chinmay1292)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamchinmay12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamchinmay12" height="30" width="40" /></a>
