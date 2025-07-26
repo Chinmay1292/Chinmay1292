@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chinmay Chougule</h1>
-<h3 align="center">A SRE with Cyber Security background and Cloud Services enthusiast from India</h3>
+<h3 align="center">A vivid learner and quick grasper currently working as a SRE with a keen interest in DevOps, Observability and Cyber Security.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmay1292&label=Profile%20views&color=0e75b6&style=plastic" alt="chinmay1292" /> </p>
 
@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/iamchinmay12" target="blank"><img src="https://img.shields.io/twitter/follow/iamchinmay12?logo=twitter&style=for-the-badge" alt="iamchinmay12" /></a> </p>
 
-- 🔭 I’m currently working on [Travel Diary](https://github.com/Chinmay1292/Travel-Diary)
+- 👨‍💻 View my journey at [https://chinmay-c.vercel.app/](https://chinmay-c.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://chinmay-c.vercel.app/](https://chinmay-c.vercel.app/)
+- 💬 Ask me about **SRE, DevOps, Observability, Linux System Administration, Cyber Security, Web Application Security, etc.**
 
-- 💬 Ask me about **React, MongoDB, Cyber Security, Web Application Security, etc.**
-
-- 📫 How to reach me **chinmaychougule1212@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/177j6xKMqRAvCE0r05YnsgM1famrn5Qvw/view?usp=drive_link](https://drive.google.com/file/d/177j6xKMqRAvCE0r05YnsgM1famrn5Qvw/view?usp=drive_link)
+- 📫 Reach me at **chinmaychougule1212@gmail.com**
 
 - ⚡ Fun fact **There are 10 types of people in this world, those who know binary and those who don't.**
 
